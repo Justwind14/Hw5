@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-family: 'Gilroy-Regular', sans-serif;
+}
+
+.present_company1 {
+    background-color: #fff;
+    
+}
+
+.present_title {
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+.special_A {
+    background: #FFF;
+    box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
+}
+
+
+.top_part_of_present {
+    padding-left: calc(50% - 585px);
+    padding-right: calc(50% - 585px);
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+
+.top_present_item {
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    padding-right: 30px;
+}
+
+
+
+.top_present_item img {
+    width: 70px;
+     
+}
+
+.present_company2 {
+    background: #FAFAFA;
+    padding-bottom: 100px;
+}
+
+
+.middle_part_of_present {
+    padding-left: calc(50% - 585px);
+    padding-right: calc(50% - 585px);
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.middle_part_of_present h1 {
+    padding-top: 92px;
+    margin-bottom: 19px;
+}
+.middle_subtitle {
+    max-width: 682px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bottom_part_of_present {
+    padding-left: calc(50% - 585px);
+    padding-right: calc(50% - 585px);
+    display: flex;
+    gap: 9px;
+    text-align: center;
+}
+
+.bottom_present_item {
+    background: #FFF;
+}
+
+.bottom_present_item h3 {
+    margin-bottom: 22px;
+}
+
+
+.bottom_present_subtitle {
+    color: #AAA;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    max-width: 310px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 54px;
+}
+
+
+
+.special_B {
+    box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.10);
+}
+
+.bottom_present_image {
+    padding-top: 16px;
+}
+
+.present_button {
+    margin-bottom: 50px;
+    background-color: #F25822;
+    color: #FFF;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    padding-left: 46px;
+    padding-right: 26px;
+}
